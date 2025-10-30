@@ -54,15 +54,7 @@ Controla torniquetes o barreras para acceso vehicular/peatonal, validando remota
 🔧 **ESP8266, MQTT, WiFiManager, Ticker**  
 🔗 [Ver repositorio](https://github.com/jmadasme/Control-Acceso-Torniquete)
 
----
 
-### 🛩️ Maqueta de Aeropuerto Militar Escala 1:400
-
-Diseño detallado de infraestructura aeroportuaria, preparado para motorización futura. Ideal para exhibiciones y enseñanza técnica.  
-🔧 **Modelismo técnico, diseño modular, electrónica integrada**  
-🔗 [Ver repositorio](https://github.com/jmadasme/Maqueta-Aeropuerto-Militar)
-
----
 
 ### 🐾 Comederos Online – Telemetría para Dispensadores de Alimento
 
